@@ -1,0 +1,6 @@
+
+{
+  "name": "GoScaffold Pro",
+  "description": "An intelligent Go project generator that creates modern, idiomatic Golang project structures with best practices in mind.",
+  "requestFramePermissions": []
+}
